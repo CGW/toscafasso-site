@@ -1,0 +1,674 @@
+{
+ "pages": [
+  [
+   "home",
+   "index.html",
+   62439
+  ],
+  [
+   "podcast",
+   "podcast/index.html",
+   94165
+  ],
+  [
+   "the-book",
+   "the-book/index.html",
+   197683
+  ],
+  [
+   "blog",
+   "blog/index.html",
+   88174
+  ],
+  [
+   "blog__tag__Podcast",
+   "blog/tag/Podcast/index.html",
+   109507
+  ],
+  [
+   "privacy-policy",
+   "privacy-policy/index.html",
+   274953
+  ],
+  [
+   "terms-of-service",
+   "terms-of-service/index.html",
+   159285
+  ],
+  [
+   "blog__3-things-teams-need-right-now",
+   "blog/3-things-teams-need-right-now/index.html",
+   60071
+  ],
+  [
+   "blog__a-managers-journey-from-luke-to-yoda",
+   "blog/a-managers-journey-from-luke-to-yoda/index.html",
+   163552
+  ],
+  [
+   "blog__delivering-feedback",
+   "blog/delivering-feedback/index.html",
+   60411
+  ],
+  [
+   "blog__flexible-is-equitable",
+   "blog/flexible-is-equitable/index.html",
+   68540
+  ],
+  [
+   "blog__girlbossing-is-over",
+   "blog/girlbossing-is-over/index.html",
+   70219
+  ],
+  [
+   "blog__hell-no-rto",
+   "blog/hell-no-rto/index.html",
+   100899
+  ],
+  [
+   "blog__how-one-manager-puts-people-first",
+   "blog/how-one-manager-puts-people-first/index.html",
+   110674
+  ],
+  [
+   "blog__how-to-get-promoted",
+   "blog/how-to-get-promoted/index.html",
+   66528
+  ],
+  [
+   "blog__is-corporate-america-ok",
+   "blog/is-corporate-america-ok/index.html",
+   60814
+  ],
+  [
+   "blog__not-ok-boomer",
+   "blog/not-ok-boomer/index.html",
+   66605
+  ],
+  [
+   "blog__obsessed-with-11s",
+   "blog/obsessed-with-11s/index.html",
+   79652
+  ],
+  [
+   "blog__stop-the-meeting-madness",
+   "blog/stop-the-meeting-madness/index.html",
+   61573
+  ],
+  [
+   "blog__two-totally-different-takes-on-the-value-of-managers",
+   "blog/two-totally-different-takes-on-the-value-of-managers/index.html",
+   65299
+  ],
+  [
+   "blog__what-real-leadership-looks-like",
+   "blog/what-real-leadership-looks-like/index.html",
+   98727
+  ],
+  [
+   "blog__why-jamie-dimon-is-wrong-about-managers",
+   "blog/why-jamie-dimon-is-wrong-about-managers/index.html",
+   60817
+  ],
+  [
+   "blog__words-speak-loudly",
+   "blog/words-speak-loudly/index.html",
+   89042
+  ],
+  [
+   "blog__work-isnt-working",
+   "blog/work-isnt-working/index.html",
+   79300
+  ]
+ ],
+ "images": {
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/d5883419-4dce-404b-b9d3-519522fe862e/favicon.ico": {
+   "single": "/images/d5883419/favicon.ico",
+   "w": null
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/d2f778e6-7ef5-4420-83fa-0b66fb220994/tosca-homepage-image.png": {
+   "variants": {
+    "100": "/images/d2f778e6/tosca-homepage-image-100w.webp",
+    "300": "/images/d2f778e6/tosca-homepage-image-300w.webp",
+    "500": "/images/d2f778e6/tosca-homepage-image-500w.webp",
+    "750": "/images/d2f778e6/tosca-homepage-image-750w.webp",
+    "1000": "/images/d2f778e6/tosca-homepage-image-1000w.webp",
+    "1500": "/images/d2f778e6/tosca-homepage-image-1500w.webp",
+    "2500": "/images/d2f778e6/tosca-homepage-image-2500w.webp"
+   },
+   "w": 2500
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/547df5a4-48e9-40fc-b464-c8e27b384ed5/podcast+background.png": {
+   "variants": {
+    "100": "/images/547df5a4/podcast-background-100w.webp",
+    "300": "/images/547df5a4/podcast-background-300w.webp",
+    "500": "/images/547df5a4/podcast-background-500w.webp",
+    "750": "/images/547df5a4/podcast-background-750w.webp",
+    "1000": "/images/547df5a4/podcast-background-1000w.webp"
+   },
+   "w": 1366
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/0f3371b1-b175-4de9-9ce7-032eb2b40b48/podcast+icon-red.png": {
+   "variants": {
+    "100": "/images/0f3371b1/podcast-icon-red-100w.webp",
+    "300": "/images/0f3371b1/podcast-icon-red-300w.webp",
+    "500": "/images/0f3371b1/podcast-icon-red-500w.webp"
+   },
+   "w": 500
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/2e6a58cc-b626-470a-b898-79c748443d72/Manager+on+a+Mission-podcast.png": {
+   "variants": {
+    "100": "/images/2e6a58cc/Manager-on-a-Mission-podcast-100w.webp",
+    "300": "/images/2e6a58cc/Manager-on-a-Mission-podcast-300w.webp",
+    "500": "/images/2e6a58cc/Manager-on-a-Mission-podcast-500w.webp",
+    "750": "/images/2e6a58cc/Manager-on-a-Mission-podcast-750w.webp",
+    "1000": "/images/2e6a58cc/Manager-on-a-Mission-podcast-1000w.webp"
+   },
+   "w": 1080
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/0acd9c6a-a43d-4490-b3f0-48ccd8a41068/DSC_2141.jpg": {
+   "variants": {
+    "100": "/images/0acd9c6a/DSC_2141-100w.webp",
+    "300": "/images/0acd9c6a/DSC_2141-300w.webp",
+    "500": "/images/0acd9c6a/DSC_2141-500w.webp",
+    "750": "/images/0acd9c6a/DSC_2141-750w.webp",
+    "1000": "/images/0acd9c6a/DSC_2141-1000w.webp"
+   },
+   "w": 1358
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/7bd8321b-1764-49ff-b146-a828118401e8/YOU.gif": {
+   "single": "/images/7bd8321b/YOU.gif",
+   "w": null
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/t/67686524ec88302fddbeeb23/1728935542835/DSC_2361.jpg": {
+   "variants": {
+    "100": "/images/17289355/DSC_2361-100w.webp",
+    "300": "/images/17289355/DSC_2361-300w.webp",
+    "500": "/images/17289355/DSC_2361-500w.webp",
+    "750": "/images/17289355/DSC_2361-750w.webp",
+    "1000": "/images/17289355/DSC_2361-1000w.webp"
+   },
+   "w": 1000
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/fabf41bc-315c-4a46-a755-7ebe8dd4f0a8/IMG_5329.jpg": {
+   "variants": {
+    "100": "/images/fabf41bc/IMG_5329-100w.webp",
+    "300": "/images/fabf41bc/IMG_5329-300w.webp",
+    "500": "/images/fabf41bc/IMG_5329-500w.webp",
+    "750": "/images/fabf41bc/IMG_5329-750w.webp",
+    "1000": "/images/fabf41bc/IMG_5329-1000w.webp",
+    "1500": "/images/fabf41bc/IMG_5329-1500w.webp"
+   },
+   "w": 2048
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/67f969a6-a2b7-4378-8730-ae98ea8ebdb8/amazon-reviews.png": {
+   "variants": {
+    "100": "/images/67f969a6/amazon-reviews-100w.webp",
+    "300": "/images/67f969a6/amazon-reviews-300w.webp"
+   },
+   "w": 478
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/f8f60190-6351-4ba9-8092-9eb8e92b4621/amz.png": {
+   "variants": {
+    "100": "/images/f8f60190/amz-100w.webp",
+    "300": "/images/f8f60190/amz-300w.webp",
+    "500": "/images/f8f60190/amz-500w.webp"
+   },
+   "w": 594
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/c6da9813-850d-491f-bd20-bacf83bc9f5b/COVER_RGB_NSFW.jpg": {
+   "variants": {
+    "100": "/images/c6da9813/COVER_RGB_NSFW-100w.webp",
+    "300": "/images/c6da9813/COVER_RGB_NSFW-300w.webp",
+    "500": "/images/c6da9813/COVER_RGB_NSFW-500w.webp",
+    "750": "/images/c6da9813/COVER_RGB_NSFW-750w.webp",
+    "1000": "/images/c6da9813/COVER_RGB_NSFW-1000w.webp",
+    "1500": "/images/c6da9813/COVER_RGB_NSFW-1500w.webp",
+    "2500": "/images/c6da9813/COVER_RGB_NSFW-2500w.webp"
+   },
+   "w": 2500
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/50048abe-6446-45f2-855a-176e69efa0fb/DSC_2145.jpg": {
+   "variants": {
+    "100": "/images/50048abe/DSC_2145-100w.webp",
+    "300": "/images/50048abe/DSC_2145-300w.webp",
+    "500": "/images/50048abe/DSC_2145-500w.webp",
+    "750": "/images/50048abe/DSC_2145-750w.webp",
+    "1000": "/images/50048abe/DSC_2145-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724188488050-8IAWHYNRKGLJX7FTZXGP/DSC_2145.jpg": {
+   "variants": {
+    "100": "/images/17241884/DSC_2145-100w.webp",
+    "300": "/images/17241884/DSC_2145-300w.webp",
+    "500": "/images/17241884/DSC_2145-500w.webp",
+    "750": "/images/17241884/DSC_2145-750w.webp",
+    "1000": "/images/17241884/DSC_2145-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724188720346-DAKV9MF3ZAYV16LVOD0K/DSC_2409.jpg": {
+   "variants": {
+    "100": "/images/17241887/DSC_2409-100w.webp",
+    "300": "/images/17241887/DSC_2409-300w.webp",
+    "500": "/images/17241887/DSC_2409-500w.webp",
+    "750": "/images/17241887/DSC_2409-750w.webp",
+    "1000": "/images/17241887/DSC_2409-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724188743408-7Y59N06MTYJJOZGFY0S5/DSC_2198.jpg": {
+   "variants": {
+    "100": "/images/17241887/DSC_2198-100w.webp",
+    "300": "/images/17241887/DSC_2198-300w.webp",
+    "500": "/images/17241887/DSC_2198-500w.webp",
+    "750": "/images/17241887/DSC_2198-750w.webp",
+    "1000": "/images/17241887/DSC_2198-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724188839791-UVG8IMIA37PQOC6M0N65/DSC_2185.jpg": {
+   "variants": {
+    "100": "/images/17241888/DSC_2185-100w.webp",
+    "300": "/images/17241888/DSC_2185-300w.webp",
+    "500": "/images/17241888/DSC_2185-500w.webp",
+    "750": "/images/17241888/DSC_2185-750w.webp",
+    "1000": "/images/17241888/DSC_2185-1000w.webp"
+   },
+   "w": 1413
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724188927765-2ZIO9N8CWE3SI9SC4G3R/DSC_2132.jpg": {
+   "variants": {
+    "100": "/images/17241889/DSC_2132-100w.webp",
+    "300": "/images/17241889/DSC_2132-300w.webp",
+    "500": "/images/17241889/DSC_2132-500w.webp",
+    "750": "/images/17241889/DSC_2132-750w.webp",
+    "1000": "/images/17241889/DSC_2132-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724188947768-B23592QIEXR47U5OX1I7/DSC_2184.jpg": {
+   "variants": {
+    "100": "/images/17241889/DSC_2184-100w.webp",
+    "300": "/images/17241889/DSC_2184-300w.webp",
+    "500": "/images/17241889/DSC_2184-500w.webp",
+    "750": "/images/17241889/DSC_2184-750w.webp",
+    "1000": "/images/17241889/DSC_2184-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724188972253-CYK9DGDBVLRE0QI1MDNO/DSC_2334.jpg": {
+   "variants": {
+    "100": "/images/17241889/DSC_2334-100w.webp",
+    "300": "/images/17241889/DSC_2334-300w.webp",
+    "500": "/images/17241889/DSC_2334-500w.webp",
+    "750": "/images/17241889/DSC_2334-750w.webp",
+    "1000": "/images/17241889/DSC_2334-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724188995803-K7K3JE7XCH6CYLYBT8FJ/DSC_2077.jpg": {
+   "variants": {
+    "100": "/images/17241889/DSC_2077-100w.webp",
+    "300": "/images/17241889/DSC_2077-300w.webp",
+    "500": "/images/17241889/DSC_2077-500w.webp",
+    "750": "/images/17241889/DSC_2077-750w.webp",
+    "1000": "/images/17241889/DSC_2077-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724189019990-88LTFWP0QECT92VVOIDT/DSC_2141.jpg": {
+   "variants": {
+    "100": "/images/17241890/DSC_2141-100w.webp",
+    "300": "/images/17241890/DSC_2141-300w.webp",
+    "500": "/images/17241890/DSC_2141-500w.webp",
+    "750": "/images/17241890/DSC_2141-750w.webp",
+    "1000": "/images/17241890/DSC_2141-1000w.webp"
+   },
+   "w": 1358
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724189047179-08QOYC6FVJVVG0I3H3QO/DSC_2194.jpg": {
+   "variants": {
+    "100": "/images/17241890/DSC_2194-100w.webp",
+    "300": "/images/17241890/DSC_2194-300w.webp",
+    "500": "/images/17241890/DSC_2194-500w.webp",
+    "750": "/images/17241890/DSC_2194-750w.webp",
+    "1000": "/images/17241890/DSC_2194-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1725983454870-LLHHXVCGCWGXBOCOQ43V/messages_0+%284%29.jpeg": {
+   "variants": {
+    "100": "/images/17259834/messages_0-4-100w.webp",
+    "300": "/images/17259834/messages_0-4-300w.webp",
+    "500": "/images/17259834/messages_0-4-500w.webp",
+    "750": "/images/17259834/messages_0-4-750w.webp",
+    "1000": "/images/17259834/messages_0-4-1000w.webp"
+   },
+   "w": 1094
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724189159804-CFBI0VT7O35EEB95UR2V/DSC_2217.jpg": {
+   "variants": {
+    "100": "/images/17241891/DSC_2217-100w.webp",
+    "300": "/images/17241891/DSC_2217-300w.webp",
+    "500": "/images/17241891/DSC_2217-500w.webp",
+    "750": "/images/17241891/DSC_2217-750w.webp",
+    "1000": "/images/17241891/DSC_2217-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724189184959-WP7GYCHO30XLP9AT6AQG/DSC_2305.jpg": {
+   "variants": {
+    "100": "/images/17241891/DSC_2305-100w.webp",
+    "300": "/images/17241891/DSC_2305-300w.webp",
+    "500": "/images/17241891/DSC_2305-500w.webp",
+    "750": "/images/17241891/DSC_2305-750w.webp",
+    "1000": "/images/17241891/DSC_2305-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724189265074-JNMRDI37L2UO905DYPYS/IMG_5329.jpg": {
+   "variants": {
+    "100": "/images/17241892/IMG_5329-100w.webp",
+    "300": "/images/17241892/IMG_5329-300w.webp",
+    "500": "/images/17241892/IMG_5329-500w.webp",
+    "750": "/images/17241892/IMG_5329-750w.webp",
+    "1000": "/images/17241892/IMG_5329-1000w.webp",
+    "1500": "/images/17241892/IMG_5329-1500w.webp"
+   },
+   "w": 1619
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724189307926-8Y9T013GUWBVYQ9A1C2S/DSC_2214.jpg": {
+   "variants": {
+    "100": "/images/17241893/DSC_2214-100w.webp",
+    "300": "/images/17241893/DSC_2214-300w.webp",
+    "500": "/images/17241893/DSC_2214-500w.webp",
+    "750": "/images/17241893/DSC_2214-750w.webp",
+    "1000": "/images/17241893/DSC_2214-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724189344954-NQ0E24AOJJZ9L0T9N3MG/DSC_2156.jpg": {
+   "variants": {
+    "100": "/images/17241893/DSC_2156-100w.webp",
+    "300": "/images/17241893/DSC_2156-300w.webp",
+    "500": "/images/17241893/DSC_2156-500w.webp",
+    "750": "/images/17241893/DSC_2156-750w.webp",
+    "1000": "/images/17241893/DSC_2156-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1724189415787-FATGXOYDMYIKSIC1DF10/DSC_2385.jpg": {
+   "variants": {
+    "100": "/images/17241894/DSC_2385-100w.webp",
+    "300": "/images/17241894/DSC_2385-300w.webp",
+    "500": "/images/17241894/DSC_2385-500w.webp",
+    "750": "/images/17241894/DSC_2385-750w.webp",
+    "1000": "/images/17241894/DSC_2385-1000w.webp"
+   },
+   "w": 1367
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/6679cfc5f344691ff1952e63/1724188850457/DSC_2185.jpg": {
+   "variants": {
+    "100": "/images/17241888/DSC_2185-100w.webp",
+    "300": "/images/17241888/DSC_2185-300w.webp",
+    "500": "/images/17241888/DSC_2185-500w.webp",
+    "750": "/images/17241888/DSC_2185-750w.webp",
+    "1000": "/images/17241888/DSC_2185-1000w.webp"
+   },
+   "w": 1413
+  },
+  "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/5759d0a4c6fc085e2d4a9447/d4bc0449aabf428aa9418e41a4cf96cb/d4bc0449aabf428aa9418e41a4cf96cb.jpeg": {
+   "variants": {
+    "100": "/images/d4bc0449/d4bc0449aabf428aa9418e41a4cf96cb-100w.webp",
+    "300": "/images/d4bc0449/d4bc0449aabf428aa9418e41a4cf96cb-300w.webp"
+   },
+   "w": 415
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/668ac93adb1cfc6f68779a01/1724188826721/DSC_2198.jpg": {
+   "variants": {
+    "100": "/images/17241888/DSC_2198-100w.webp",
+    "300": "/images/17241888/DSC_2198-300w.webp",
+    "500": "/images/17241888/DSC_2198-500w.webp",
+    "750": "/images/17241888/DSC_2198-750w.webp",
+    "1000": "/images/17241888/DSC_2198-1000w.webp"
+   },
+   "w": 1367
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/66248bd86b42822c0ba511c0/1725983466430/messages_0+%284%29.jpeg": {
+   "variants": {
+    "100": "/images/17259834/messages_0-4-100w.webp",
+    "300": "/images/17259834/messages_0-4-300w.webp",
+    "500": "/images/17259834/messages_0-4-500w.webp",
+    "750": "/images/17259834/messages_0-4-750w.webp",
+    "1000": "/images/17259834/messages_0-4-1000w.webp"
+   },
+   "w": 1094
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/669eb729998c325bfa6d5321/1724188497148/DSC_2145.jpg": {
+   "variants": {
+    "100": "/images/17241884/DSC_2145-100w.webp",
+    "300": "/images/17241884/DSC_2145-300w.webp",
+    "500": "/images/17241884/DSC_2145-500w.webp",
+    "750": "/images/17241884/DSC_2145-750w.webp",
+    "1000": "/images/17241884/DSC_2145-1000w.webp"
+   },
+   "w": 1367
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/66242dd5dcfc5e395d05b4f6/1724189426520/DSC_2385.jpg": {
+   "variants": {
+    "100": "/images/17241894/DSC_2385-100w.webp",
+    "300": "/images/17241894/DSC_2385-300w.webp",
+    "500": "/images/17241894/DSC_2385-500w.webp",
+    "750": "/images/17241894/DSC_2385-750w.webp",
+    "1000": "/images/17241894/DSC_2385-1000w.webp"
+   },
+   "w": 1367
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/662488b56b42822c0ba49de9/1724189288920/IMG_5329.jpg": {
+   "variants": {
+    "100": "/images/17241892/IMG_5329-100w.webp",
+    "300": "/images/17241892/IMG_5329-300w.webp",
+    "500": "/images/17241892/IMG_5329-500w.webp",
+    "750": "/images/17241892/IMG_5329-750w.webp",
+    "1000": "/images/17241892/IMG_5329-1000w.webp",
+    "1500": "/images/17241892/IMG_5329-1500w.webp"
+   },
+   "w": 1619
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/668aee790f9ad922d06c23d1/1724188731866/DSC_2409.jpg": {
+   "variants": {
+    "100": "/images/17241887/DSC_2409-100w.webp",
+    "300": "/images/17241887/DSC_2409-300w.webp",
+    "500": "/images/17241887/DSC_2409-500w.webp",
+    "750": "/images/17241887/DSC_2409-750w.webp",
+    "1000": "/images/17241887/DSC_2409-1000w.webp"
+   },
+   "w": 1367
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/66248584bdcb1c544e0bfde8/1724189353911/DSC_2156.jpg": {
+   "variants": {
+    "100": "/images/17241893/DSC_2156-100w.webp",
+    "300": "/images/17241893/DSC_2156-300w.webp",
+    "500": "/images/17241893/DSC_2156-500w.webp",
+    "750": "/images/17241893/DSC_2156-750w.webp",
+    "1000": "/images/17241893/DSC_2156-1000w.webp"
+   },
+   "w": 1367
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/662f01143bc4da14f7e0d4e4/1724189031989/DSC_2141.jpg": {
+   "variants": {
+    "100": "/images/17241890/DSC_2141-100w.webp",
+    "300": "/images/17241890/DSC_2141-300w.webp",
+    "500": "/images/17241890/DSC_2141-500w.webp",
+    "750": "/images/17241890/DSC_2141-750w.webp",
+    "1000": "/images/17241890/DSC_2141-1000w.webp"
+   },
+   "w": 1358
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/6624879b7cee1c735e51c08d/1724189315609/DSC_2214.jpg": {
+   "variants": {
+    "100": "/images/17241893/DSC_2214-100w.webp",
+    "300": "/images/17241893/DSC_2214-300w.webp",
+    "500": "/images/17241893/DSC_2214-500w.webp",
+    "750": "/images/17241893/DSC_2214-750w.webp",
+    "1000": "/images/17241893/DSC_2214-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/1ada18c7-357c-4f7a-8cb2-4982e57542d6/cruzeboomer.png": {
+   "variants": {
+    "100": "/images/1ada18c7/cruzeboomer-100w.webp",
+    "300": "/images/1ada18c7/cruzeboomer-300w.webp",
+    "500": "/images/1ada18c7/cruzeboomer-500w.webp",
+    "750": "/images/1ada18c7/cruzeboomer-750w.webp",
+    "1000": "/images/1ada18c7/cruzeboomer-1000w.webp",
+    "1500": "/images/1ada18c7/cruzeboomer-1500w.webp"
+   },
+   "w": 2318
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/8fcf6d7b-a6fe-44a4-8e1d-46bb463e8d4b/Screenshot+2024-03-20+at+3.13.55%E2%80%AFPM.png": {
+   "variants": {
+    "100": "/images/8fcf6d7b/Screenshot-2024-03-20-at-3-13-55-PM-100w.webp",
+    "300": "/images/8fcf6d7b/Screenshot-2024-03-20-at-3-13-55-PM-300w.webp",
+    "500": "/images/8fcf6d7b/Screenshot-2024-03-20-at-3-13-55-PM-500w.webp",
+    "750": "/images/8fcf6d7b/Screenshot-2024-03-20-at-3-13-55-PM-750w.webp",
+    "1000": "/images/8fcf6d7b/Screenshot-2024-03-20-at-3-13-55-PM-1000w.webp",
+    "1500": "/images/8fcf6d7b/Screenshot-2024-03-20-at-3-13-55-PM-1500w.webp"
+   },
+   "w": 2258
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/66248ac44a463e06c2bce0f0/1724189168420/DSC_2217.jpg": {
+   "variants": {
+    "100": "/images/17241891/DSC_2217-100w.webp",
+    "300": "/images/17241891/DSC_2217-300w.webp",
+    "500": "/images/17241891/DSC_2217-500w.webp",
+    "750": "/images/17241891/DSC_2217-750w.webp",
+    "1000": "/images/17241891/DSC_2217-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/58b91999-49e1-4b37-87af-0c95f83317f2/Screenshot+2024-04-29+at+12.11.40%E2%80%AFPM.png": {
+   "variants": {
+    "100": "/images/58b91999/Screenshot-2024-04-29-at-12-11-40-PM-100w.webp",
+    "300": "/images/58b91999/Screenshot-2024-04-29-at-12-11-40-PM-300w.webp"
+   },
+   "w": 469
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/662489f67cee1c735e52175c/1724189231342/DSC_2305.jpg": {
+   "variants": {
+    "100": "/images/17241892/DSC_2305-100w.webp",
+    "300": "/images/17241892/DSC_2305-300w.webp",
+    "500": "/images/17241892/DSC_2305-500w.webp",
+    "750": "/images/17241892/DSC_2305-750w.webp",
+    "1000": "/images/17241892/DSC_2305-1000w.webp"
+   },
+   "w": 1367
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/662efd376b16fa35fb1f27e6/1724189055891/DSC_2194.jpg": {
+   "variants": {
+    "100": "/images/17241890/DSC_2194-100w.webp",
+    "300": "/images/17241890/DSC_2194-300w.webp",
+    "500": "/images/17241890/DSC_2194-500w.webp",
+    "750": "/images/17241890/DSC_2194-750w.webp",
+    "1000": "/images/17241890/DSC_2194-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/b96a13b5-2de6-47d9-ae7d-2d70b17e62b0/Screenshot+2024-04-25+at+6.25.45%E2%80%AFPM.png": {
+   "variants": {
+    "100": "/images/b96a13b5/Screenshot-2024-04-25-at-6-25-45-PM-100w.webp",
+    "300": "/images/b96a13b5/Screenshot-2024-04-25-at-6-25-45-PM-300w.webp",
+    "500": "/images/b96a13b5/Screenshot-2024-04-25-at-6-25-45-PM-500w.webp",
+    "750": "/images/b96a13b5/Screenshot-2024-04-25-at-6-25-45-PM-750w.webp",
+    "1000": "/images/b96a13b5/Screenshot-2024-04-25-at-6-25-45-PM-1000w.webp",
+    "1500": "/images/b96a13b5/Screenshot-2024-04-25-at-6-25-45-PM-1500w.webp"
+   },
+   "w": 1584
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/2b010cf6-ac06-4f0e-9c7d-7ecb90e3b07d/Screenshot+2024-04-25+at+6.29.26%E2%80%AFPM.png": {
+   "variants": {
+    "100": "/images/2b010cf6/Screenshot-2024-04-25-at-6-29-26-PM-100w.webp",
+    "300": "/images/2b010cf6/Screenshot-2024-04-25-at-6-29-26-PM-300w.webp",
+    "500": "/images/2b010cf6/Screenshot-2024-04-25-at-6-29-26-PM-500w.webp",
+    "750": "/images/2b010cf6/Screenshot-2024-04-25-at-6-29-26-PM-750w.webp"
+   },
+   "w": 785
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/664e1be1351b0943ab5512bf/1724188956280/DSC_2184.jpg": {
+   "variants": {
+    "100": "/images/17241889/DSC_2184-100w.webp",
+    "300": "/images/17241889/DSC_2184-300w.webp",
+    "500": "/images/17241889/DSC_2184-500w.webp",
+    "750": "/images/17241889/DSC_2184-750w.webp",
+    "1000": "/images/17241889/DSC_2184-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/dd794716-0b2e-4b88-8914-432d64797b55/try+this.png": {
+   "variants": {
+    "100": "/images/dd794716/try-this-100w.webp",
+    "300": "/images/dd794716/try-this-300w.webp",
+    "500": "/images/dd794716/try-this-500w.webp",
+    "750": "/images/dd794716/try-this-750w.webp",
+    "1000": "/images/dd794716/try-this-1000w.webp"
+   },
+   "w": 1080
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/6645233b5ac59157cb991621/1724188981615/DSC_2334.jpg": {
+   "variants": {
+    "100": "/images/17241889/DSC_2334-100w.webp",
+    "300": "/images/17241889/DSC_2334-300w.webp",
+    "500": "/images/17241889/DSC_2334-500w.webp",
+    "750": "/images/17241889/DSC_2334-750w.webp",
+    "1000": "/images/17241889/DSC_2334-1000w.webp"
+   },
+   "w": 1367
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/664e262767bbda01b5ddf6b2/1724188935919/DSC_2132.jpg": {
+   "variants": {
+    "100": "/images/17241889/DSC_2132-100w.webp",
+    "300": "/images/17241889/DSC_2132-300w.webp",
+    "500": "/images/17241889/DSC_2132-500w.webp",
+    "750": "/images/17241889/DSC_2132-750w.webp",
+    "1000": "/images/17241889/DSC_2132-1000w.webp"
+   },
+   "w": 1367
+  },
+  "https://images.squarespace-cdn.com/content/v1/662160748ff74b53f620dae6/160fe5c4-74e5-4c3f-88a0-3b5484afa93b/language+post.png": {
+   "variants": {
+    "100": "/images/160fe5c4/language-post-100w.webp",
+    "300": "/images/160fe5c4/language-post-300w.webp",
+    "500": "/images/160fe5c4/language-post-500w.webp",
+    "750": "/images/160fe5c4/language-post-750w.webp",
+    "1000": "/images/160fe5c4/language-post-1000w.webp"
+   },
+   "w": 1080
+  },
+  "http://static1.squarespace.com/static/662160748ff74b53f620dae6/66242dd5dcfc5e395d05b4f3/66418183aa380046ec5ecfb9/1724189006998/DSC_2077.jpg": {
+   "variants": {
+    "100": "/images/17241890/DSC_2077-100w.webp",
+    "300": "/images/17241890/DSC_2077-300w.webp",
+    "500": "/images/17241890/DSC_2077-500w.webp",
+    "750": "/images/17241890/DSC_2077-750w.webp",
+    "1000": "/images/17241890/DSC_2077-1000w.webp"
+   },
+   "w": 1367
+  }
+ },
+ "css": {
+  "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css": "/assets/css/commerce-d50e5960dc9fd059-min-en-US-f718776e.css",
+  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/3b7efc82-ae83-43d8-be6c-762d1bb5c47e_874/website.components.html.styles.css": "/assets/css/website-components-html-styles-afabb3c1.css",
+  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/56fbc76c-88f6-4531-b359-03db2f1c5c08_652/website.components.socialLinks.styles.css": "/assets/css/website-components-socialLinks-styles-2e55a988.css",
+  "https://static1.squarespace.com/static/versioned-site-css/662160748ff74b53f620dae6/97/5c5a519771c10ba3470d8101/662160758ff74b53f620daf9/1822/site.css?nocustom=true": "/assets/css/site-f8311adc.css",
+  "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1787156543145-0MJJPDTBNWE734EUOY27/static.css": "/assets/css/static-84031dde.css",
+  "https://static1.squarespace.com/static/custom-css/662160748ff74b53f620dae6/662160758ff74b53f620daf9/0/custom.css": "/assets/css/custom-2f8f025c.css",
+  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/4d917829-dc83-4397-b7dc-44cd91c831ff_1043/website.components.button.styles.css": "/assets/css/website-components-button-styles-43733944.css",
+  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/d9efda58-5b5f-46ba-8450-2b930e85da17_651/website.components.socialLinks.styles.css": "/assets/css/website-components-socialLinks-styles-bdbaa328.css",
+  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/5997630d-f3f7-4874-8a00-156b5fd65f91_873/website.components.html.styles.css": "/assets/css/website-components-html-styles-8f0e4465.css",
+  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/781bd710-78e0-4f12-99a9-fdb9e11557c0_860/website.components.imageFluid.styles.css": "/assets/css/website-components-imageFluid-styles-43f7960e.css",
+  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.shape/b49b6cf8-b33c-4d75-a415-6525a0d815a5_1268/website.components.shape.styles.css": "/assets/css/website-components-shape-styles-b92c7f6f.css",
+  "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/c6fee02b-1692-4ddf-9ffc-473d6fdc83be_1044/website.components.button.styles.css": "/assets/css/website-components-button-styles-b607d86c.css"
+ }
+}

@@ -1,0 +1,14 @@
+/* Site-migrator overrides — loaded after all forked Squarespace CSS.
+   Header: the platform's "dynamic/fixed header" behavior is driven by a
+   scroll listener (adds a solid-background class once you scroll past the
+   hero). With that JS removed, the header defaulted to permanently fixed +
+   solid, covering content. Owner asked for it to just sit at the top,
+   transparent, scrolling away with the page. */
+.header {
+  position: absolute !important;
+  background-color: transparent !important;
+}
+[data-header-style="theme"].header,
+[data-header-style="dynamic"].header {
+  background-color: transparent !important;
+}

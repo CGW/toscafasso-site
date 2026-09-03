@@ -1,0 +1,4 @@
+/* Owner-supplied DIN Condensed Bold (web rights confirmed). Single static weight,
+   declared with a weight range so any requested weight (300-500 in the original
+   design) resolves to this file rather than falling back to a system font. */
+@font-face{font-family:'din-condensed-web';font-style:normal;font-weight:100 900;font-display:swap;src:url(/assets/fonts/din-condensed-bold.woff2) format('woff2')}
